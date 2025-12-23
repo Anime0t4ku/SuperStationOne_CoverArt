@@ -14,4 +14,16 @@ The template is intended as a **design base**. Add your own game artwork, titles
 
 ---
 
+## Case reference
+
+The template dimensions are based on standard **9mm CD/DVD cases**.  
+As an example, these are the cases used during testing:
+
+- https://www.walvisproducts.nl/a-40486791/cd-doosjes-trays-jewel-cases/pp-standaard-dikte-9mm-1-cd-doosje-zwart/
+
+This link is provided **for reference only**.  
+I am **not affiliated** with this store or product, it is simply an example of a compatible case format.
+
+---
+
 Enjoy creating your own SuperStation One covers.
