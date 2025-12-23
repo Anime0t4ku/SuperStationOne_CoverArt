@@ -4,6 +4,8 @@ This repository contains a **Photoshop (PSD) template** for creating **9mm half 
 
 The template is intended as a **design base**. Add your own game artwork, titles, and text, then export the result as **JPEG or PNG** for printing.
 
+A matching disc label template is also included, allowing you to create consistent disc artwork to go along with the covers.
+
 ---
 
 ## Printing dimensions
