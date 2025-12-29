@@ -10,8 +10,8 @@ A matching disc label template is also included, allowing you to create consiste
 
 ## Printing dimensions
 
-- **Final trim size:** 283 × 125 mm  
-- **With 3 mm bleed:** 289 × 131 mm  
+- **Single-disc cover size:** 268 × 118,3 mm  
+- **Dual-disc cover size:** 273 × 120,5 mm 
 - **Recommended resolution:** 300 DPI  
 
 ---
