@@ -10,7 +10,7 @@ A matching disc label template is also included, allowing you to create consiste
 
 ## Printing dimensions
 
-- **Single-disc cover size:** 268 × 118,3 mm  
+- **Single-disc cover size:** 271 × 119,6 mm  
 - **Dual-disc cover size:** 273 × 120,5 mm 
 - **Recommended resolution:** 300 DPI  
 
